@@ -1,0 +1,12 @@
+{
+  "name": "@uoalib/uoa-lib-ember",
+  "version": "1.1.2",
+  "main": "./index.js",
+  "dependencies": {
+    "async": "^1.4.2",
+    "bluebird": "^3.4.7",
+    "optimist": "0.6.1",
+    "uglify-js": "^2.4.24",
+    "@uoalib/uoa-lib-cdn": "0.8.0"
+  }
+}
